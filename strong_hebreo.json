@@ -1,90 +1,21 @@
-[
-  {
-    "id": "H1",
-    "hebreo": "אָב",
-    "transliteracion": "Ab",
-    "pronunciacion": "awb",
-    "origen": "Raíz primaria",
-    "definicion": "Padre, antepasado, fundador de una familia o nación, creador primario."
+{
+  "name": "strongs",
+  "version": "1.0.2",
+  "description": "Strong's Dictionaries of Hebrew and Greek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  {
-    "id": "H2",
-    "hebreo": "אַב",
-    "transliteracion": "Ab",
-    "pronunciacion": "ab",
-    "origen": "Término arameo equivalente a H1",
-    "definicion": "Padre, progenitor."
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openscriptures/strongs.git"
   },
-  {
-    "id": "H430",
-    "hebreo": "אֱלֹהִים",
-    "transliteracion": "Elohím",
-    "pronunciacion": "el-o-heem'",
-    "origen": "Plural de H433 (Elohá)",
-    "definicion": "Creador Supremo, Juez, Divinidad, Poderoso Sovereign de la creación."
+  "keywords": [
+    "bible"
+  ],
+  "author": "Ben Dwyer <ben@scruffian.com>",
+  "bugs": {
+    "url": "https://github.com/openscriptures/strongs/issues"
   },
-  {
-    "id": "H776",
-    "hebreo": "אֶרֶץ",
-    "transliteracion": "Eretz",
-    "pronunciacion": "eh'-retz",
-    "origen": "De una raíz que no se usa",
-    "definicion": "Eretz, territorio, región, la creación firme habitada."
-  },
-  {
-    "id": "H1121",
-    "hebreo": "בֵּן",
-    "transliteracion": "Ben",
-    "pronunciacion": "bane",
-    "origen": "De H1129 (Banáh)",
-    "definicion": "Hijo, descendiente, miembro de un pueblo."
-  },
-  {
-    "id": "H1247",
-    "hebreo": "בַּר",
-    "transliteracion": "Bar",
-    "pronunciacion": "bar",
-    "origen": "Término arameo",
-    "definicion": "Hijo, herencia, puro, elegido."
-  },
-  {
-    "id": "H1254",
-    "hebreo": "בָּרָא",
-    "transliteracion": "Bará",
-    "pronunciacion": "baw-raw'",
-    "origen": "Raíz primaria",
-    "definicion": "Crear, formar, hacer (aplicado a la acción creadora de Elohím)."
-  },
-  {
-    "id": "H3068",
-    "hebreo": "יְהוָה",
-    "transliteracion": "IHVH",
-    "pronunciacion": "i-ho-vaw'",
-    "origen": "De H1961 (Haiáh)",
-    "definicion": "El Autoexistente, el Eterno, el Nombre Sagrado del Creador Elohím."
-  },
-  {
-    "id": "H6399",
-    "hebreo": "פְּלַח",
-    "transliteracion": "Pelax",
-    "pronunciacion": "pe-lax'",
-    "origen": "Raíz aramea",
-    "definicion": "Rendir culto sagrado, venerar religiosamente. Servicio exclusivo a Elohím."
-  },
-  {
-    "id": "H7225",
-    "hebreo": "בְּרֵאשִׁית",
-    "transliteracion": "Bereshít",
-    "pronunciacion": "be-ray-sheeth'",
-    "origen": "De H7218 (Rosh)",
-    "definicion": "Primera parte, principio, lo mejor, primicia, comienzo del tiempo."
-  },
-  {
-    "id": "H8064",
-    "hebreo": "שָׁמַיִם",
-    "transliteracion": "Shamaim",
-    "pronunciacion": "shaw-mah'-im",
-    "origen": "Plural de una raíz no usada",
-    "definicion": "Shamaim, morada sublime de Elohím, espacios celestiales."
-  }
-]
+  "homepage": "https://github.com/openscriptures/strongs#readme"
+}
